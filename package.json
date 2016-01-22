@@ -1,7 +1,7 @@
 {
     "name": "is-url-umd",
     "description": "Tells you that string is in URL format. Library in UMD style.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
@@ -34,5 +34,5 @@
         "is-url": "^1.2.1",
         "webpack": "^1.12.11"
     },
-    "main": "index.js"
+    "main": "dist/is-url.js"
 }
