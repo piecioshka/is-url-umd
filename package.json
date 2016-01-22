@@ -1,3 +1,38 @@
 {
-    "private": true
+    "name": "is-url-umd",
+    "description": "Tells you that string is in URL format. Library in UMD style.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "piecioshka.pl"
+    },
+    "scripts": {
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/piecioshka/is-url-umd.git"
+    },
+    "keywords": [
+        "is",
+        "url",
+        "umd",
+        "amd",
+        "commonjs",
+        "global"
+    ],
+    "files": [
+        "dist",
+        "index.js",
+        "package.json",
+        "README.md",
+        "webpack.config.js"
+    ],
+    "dependencies": {
+        "is-url": "^1.2.1",
+        "webpack": "^1.12.11"
+    },
+    "main": "index.js"
 }
