@@ -1,5 +1,7 @@
 # is-url-amd
 
+[![npm version](https://badge.fury.io/js/is-url-umd.svg)](https://badge.fury.io/js/is-url-umd)
+
 > Tells you that string is in URL format. Library in UMD style.
 
 ## Install
