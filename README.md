@@ -6,7 +6,7 @@
 
 ## Install
 
-```bash
+```
 npm install is-url-umd
 ```
 
@@ -23,11 +23,11 @@ if (isURL(string)) {
 
 ```
 
-## How it works
+## How it works?
 
 In package `is-url` we can find run function `.test()` on RegExp:
 
-```
+```javascript
 /^(?:\w+:)?\/\/([^\s\.]+\.\S{2}|localhost[\:?\d]*)\S*$/
 ```
 
