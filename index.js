@@ -1,3 +1,5 @@
+'use strict';
+
 // Simple CommonJS export, but Webpack configuration can exports it to 3 formats:
 //  - CommonJS
 //  - AMD
