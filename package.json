@@ -6,7 +6,7 @@
     "author": {
         "name": "Piotr Kowalski",
         "email": "piecioshka@gmail.com",
-        "url": "http://piecioshka.pl"
+        "url": "https://piecioshka.pl"
     },
     "scripts": {
         "build": "webpack --profile",
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/piecioshka/is-url-umd.git"
+        "url": "git@github.com:piecioshka/is-url-umd.git"
     },
     "keywords": [
         "is",
@@ -33,5 +33,5 @@
         "is-url": "^1.2.1",
         "webpack": "^1.12.11"
     },
-    "main": "dist/is-url-umd.js"
+    "main": "./dist/is-url-umd.js"
 }
