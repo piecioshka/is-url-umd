@@ -3,7 +3,7 @@
 [![node version](https://img.shields.io/node/v/is-url-amd.svg)](https://www.npmjs.com/package/is-url-amd)
 [![npm version](https://badge.fury.io/js/is-url-umd.svg)](https://badge.fury.io/js/is-url-umd)
 [![downloads count](https://img.shields.io/npm/dt/is-url-amd.svg)](https://www.npmjs.com/package/is-url-amd)
-[![license](https://img.shields.io/npm/l/is-url-amd.svg)](https://www.npmjs.com/package/is-url-amd)
+[![license](https://img.shields.io/npm/l/is-url-amd.svg)](https://piecioshka.mit-license.org)
 
 Tells you that string is in URL format. Library in UMD style.
 
