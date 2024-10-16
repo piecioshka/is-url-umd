@@ -5,7 +5,7 @@
 [![downloads count](https://img.shields.io/npm/dt/is-url-umd.svg)](https://www.npmjs.com/package/is-url-umd)
 [![license](https://img.shields.io/npm/l/is-url-umd.svg)](https://piecioshka.mit-license.org)
 
-Tells you that string is in URL format. Library in UMD style.
+🔨 Tells you that string is in URL format. Library in UMD style.
 
 ## Install
 
