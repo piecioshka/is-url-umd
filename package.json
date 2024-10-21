@@ -12,6 +12,10 @@
         "build": "webpack --profile",
         "watch": "webpack -w"
     },
+    "devDependencies": {
+        "is-url": "^1.2.1",
+        "webpack": "^1.12.11"
+    },
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/piecioshka/is-url-umd.git"
@@ -29,9 +33,5 @@
         "package.json",
         "README.md"
     ],
-    "devDependencies": {
-        "is-url": "^1.2.1",
-        "webpack": "^1.12.11"
-    },
     "main": "./dist/is-url-umd.js"
 }
