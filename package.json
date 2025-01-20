@@ -9,6 +9,7 @@
         "url": "https://piecioshka.pl"
     },
     "scripts": {
+        "prebuild": "rm -rf dist/",
         "build": "webpack --profile",
         "watch": "webpack -w"
     },
