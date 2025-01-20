@@ -8,13 +8,13 @@
 
 🔨 Tells you that string is in URL format. Library in UMD style.
 
-## Install
+## Usage
+
+Installation:
 
 ```bash
 npm install is-url-umd
 ```
-
-## Usage
 
 ```javascript
 var isURL = require('is-url-umd');
