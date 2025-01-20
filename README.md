@@ -40,9 +40,9 @@ In package `is-url` we can find run function `.test()` on RegExp:
 
 Library in [UMD](https://github.com/umdjs/umd) format, so support all kinds of exports:
 
-* AMD
-* CommonJS
-* typical global variable
+- AMD
+- CommonJS
+- typical global variable
 
 ## Dependencies
 
