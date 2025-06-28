@@ -26,7 +26,7 @@ if (isURL(string)) {
 }
 ```
 
-## How it works?
+## How it works? 🚀
 
 In package `is-url` we can find run function `.test()` on RegExp:
 
