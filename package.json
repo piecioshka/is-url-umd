@@ -32,7 +32,8 @@
     "files": [
         "dist",
         "package.json",
-        "README.md"
+        "README.md",
+        "LICENSE"
     ],
     "main": "./dist/is-url-umd.js"
 }
