@@ -47,3 +47,7 @@ Library in [UMD](https://github.com/umdjs/umd) format, so support all kinds of e
 ## Dependencies
 
 Use https://www.npmjs.com/package/is-url to support `isURL` function.
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
